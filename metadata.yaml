@@ -1,6 +1,9 @@
 _repo: An-Earthman-on-Venus-Originally-titled-The-Radio-Man_52167
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: '(The Radio Man): An Earth Man on Venus'
+covers:
+- cover_type: archival
+  image_path: 52167-h/images/cover.jpg
 creator:
   author:
     agent_name: Farley, Ralph Milne
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46705
     wikipedia: https://en.wikipedia.org/wiki/Roger_Sherman_Hoar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52167#An-Earthman-on-Venus-Originally-titled-The-Radio-Man
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-05-27'
 gutenberg_type: Text
